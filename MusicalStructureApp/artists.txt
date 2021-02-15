@@ -1,0 +1,60 @@
+https://en.wikipedia.org/wiki/List_of_UK_Singles_Chart_number_ones_of_the_2000s#Number-one_singles
+
+"I Have a Dream / Seasons in the Sun" - Westlife
+
+Manic Street Preachers "The Masses Against the Classes"
+
+Britney Spears "Born to Make You Happy"
+
+Gabrielle "Rise"
+
+Oasis	"Go Let It Out"
+
+All Saints	"Pure Shores"
+
+Chicane featuring Bryan Adams	"Don't Give Up"
+
+Geri Halliwell	"Bag It Up"
+
+Melanie C featuring Lisa "Left Eye" Lopes	"Never Be the Same Again"
+
+Craig David	"Fill Me In"
+
+        <ImageView
+            android:id="@+id/list_item_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:contentDescription="artist"/>
+
+
+        <TextView
+            android:id="@+id/version_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/list_item_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/version_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/version_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>

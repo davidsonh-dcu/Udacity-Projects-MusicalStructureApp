@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="image_of_artist">image of artist</string>
+    <string name="image_view_westlife">Westlife</string>
+    <string name="image_view_manic_street_preachers">Manic Street Preachers</string>
+    <string name="image_view_britney">Britney Spears</string>
+    <string name="name_of_artist">artist name</string>
+    <string name="song_title"> Song title</string>
+    <string name="I_have_a_dream">\"I Have a Dream\"</string>
+    <string name="westlife">Westlife</string>
+    <string name="born_to_make_you_happy">\"Born to Make You Happy\"</string>
+    <string name="britney">Britney Spears</string>
+    <string name="released">Released</string>
+    <string name="genre">Genre</string>
+    <string name="the_masses_against_the_classes">\"The Masses Against the Classes\"</string>
+</resources>
