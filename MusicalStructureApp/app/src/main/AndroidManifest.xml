@@ -9,10 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MusicalStructureApp">
-        <activity android:name=".WestlifeActivity"></activity>
-        <activity android:name=".ManicStreetPreachersActivity"></activity>
-        <activity android:name=".BritneyActivity"></activity>
-        <activity android:name=".PlaySongActivity"></activity>
+        <activity
+            android:name=".WestlifeActivity"
+            android:label="@string/westlife">
+        </activity>
+        <activity
+            android:name=".ManicStreetPreachersActivity"
+            android:label="@string/manic_street_preachers">
+        </activity>
+        <activity android:name=".BritneyActivity"
+            android:label="@string/britney">
+        </activity>
+        <activity
+            android:name=".PlaySongActivity"
+            android:label="Now Playing">
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,5 +32,4 @@
             </intent-filter>
         </activity>
     </application>
-
 </manifest>

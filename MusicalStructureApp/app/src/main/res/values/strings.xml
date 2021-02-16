@@ -13,4 +13,14 @@
     <string name="released">Released</string>
     <string name="genre">Genre</string>
     <string name="the_masses_against_the_classes">\"The Masses Against the Classes\"</string>
+    <string name="alternative_rockhard_rockpop_punk">Alternative / rockhard / rockpop / punk</string>
+    <string name="jan_10_2000">January 10, 2000</string>
+    <string name="home_button">home</string>
+    <string name="play_button">play</string>
+    <string name="pause_button">pause</string>
+    <string name="stop_button">stop</string>
+    <string name="dec_6_1999">December 6, 1999</string>
+    <string name="teen_pop">Teen Pop</string>
+    <string name="dec_6_99">December 6, 1999</string>
+    <string name="manic_street_preachers">Manic Street Preachers</string>
 </resources>

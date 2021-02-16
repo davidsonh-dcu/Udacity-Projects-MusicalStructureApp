@@ -1,5 +1,5 @@
 package com.example.musicalstructureapp;
-
+// Reference for list of musical artists: https://en.wikipedia.org/wiki/List_of_UK_Singles_Chart_number_ones_of_the_2000s#Number-one_singles
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         // populate the artists list
         // inline construction of new word object using 'new'
-        artists.add (new Artist ("West Life" , "I Have a Dream / Seasons in the Sun",
+        artists.add (new Artist ("Westlife" , "I Have a Dream / Seasons in the Sun",
                 R.drawable.westlife));
         artists.add (new Artist ("Manic Street Preacher" , "The Masses Against the Classes",
                 R.drawable.manic_street_preachers));
